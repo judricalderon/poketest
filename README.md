@@ -47,3 +47,9 @@ This includes:
 - BPMN diagram  
 - Draw.io source files  
 - Exported image versions of the diagrams
+
+# Live API
+
+The API is deployed and publicly accessible:
+
+👉 [External Data Endpoint](https://poketestjdrc.vercel.app/external-data)
