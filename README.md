@@ -37,3 +37,13 @@ Returns a list of Pokémon with transformed data (not the raw response from the 
 ## External API used
 
 - [PokeAPI](https://pokeapi.co/)
+
+# Documentation
+
+All project documentation can be found in the **Documentation** folder.
+
+This includes:
+- Class diagram
+- BPMN diagram  
+- Draw.io source files  
+- Exported image versions of the diagrams
