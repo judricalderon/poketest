@@ -9,7 +9,7 @@ class PokeApiClient {
   }
 
   async getFirstSeasonPokemons() {
-    const response = await this.httpClient.get('/pokemon?limit=151&offset=0');
+    const response = await this.httpClient.get('/pokemon?limit=10&offset=0');
     return response.data.results;
   }
 
