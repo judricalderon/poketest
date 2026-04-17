@@ -1,5 +1,5 @@
 const express = require('express');
-const pokemonModule = require('./modules/pokemon/module');
+const pokemonModule = require('./modules/pokemon.module');
 const errorMiddleware = require('./middlewares/middleware');
 
 const app = express();
