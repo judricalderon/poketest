@@ -23,3 +23,17 @@ npm install
 npm run dev
 ```
 # 4. Open in browser:
+
+```bash
+http://localhost:3000/external-data
+```
+
+## Endpoint
+```bash
+GET /external-data
+```
+Returns a list of Pokémon with transformed data (not the raw response from the external API).
+
+## External API used
+
+- [PokeAPI](https://pokeapi.co/)
